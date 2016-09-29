@@ -1,0 +1,19 @@
+{
+  "name": "natewagar.com",
+  "version": "2.0.0",
+  "description": "Nate Wagar's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate250/natewagar.com.git"
+  },
+  "author": "Nate Wagar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nate250/natewagar.com/issues"
+  },
+  "homepage": "https://github.com/nate250/natewagar.com#readme"
+}
